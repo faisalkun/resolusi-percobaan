@@ -1,5 +1,6 @@
 harapan yang ingin dicapai
 - ini yang pertama
-- ini yang kedua
 - dan ini yang ketiga
 - ini tambahan yang ke empat
+- ini ditambahkan lagi
+- dan ini juga
